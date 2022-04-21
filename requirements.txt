@@ -1,0 +1,13 @@
+-e .
+
+mlflow
+xgboost
+prettytable
+plotly
+kaleido
+aif360[ DisparateImpactRemover, Reductions, LFR, AdversarialDebiasing]
+autofeat
+explainerdashboard
+evidently
+seaborn
+pytest
