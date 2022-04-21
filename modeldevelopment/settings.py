@@ -17,6 +17,7 @@ BACKEND_STORE = "sqlite:///Heart_Disease_MLFlow.db"
 # BACKEND_STORE = "http://localhost:1234"
 ARTIFACT_LOCATION = ""
 NEED_TUNING = True
+
 SCALAR = StandardScaler
 AUTO_FEATURES = False
 
